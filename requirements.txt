@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+pytrends
+black
+pylint
+pytest
+ipython
+nbval
+Jupyter
